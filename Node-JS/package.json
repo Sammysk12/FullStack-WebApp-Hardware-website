@@ -1,0 +1,19 @@
+{
+  "name": "hardware_shop_website",
+  "version": "1.0.0",
+  "description": "This is the backend part of the website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sammysk12/FullStack-WebApp-Hardware-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sammysk12/FullStack-WebApp-Hardware-website/issues"
+  },
+  "homepage": "https://github.com/Sammysk12/FullStack-WebApp-Hardware-website#readme"
+}
